@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
-  name: Pawel Dywan
+  name: Paweł Dywan
   headline: .NET Full Stack Developer
   location: Wrocław, Poland
   email: paweldywan@outlook.com
