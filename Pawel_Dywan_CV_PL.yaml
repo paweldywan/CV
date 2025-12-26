@@ -1,0 +1,217 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Paweł Dywan
+  headline: .NET Full Stack Developer
+  location: Wrocław, Polska
+  email: paweldywan@outlook.com
+  photo:
+  phone: +48 888 450 198
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: paweł-dywan-a02271363
+    - network: GitHub
+      username: paweldywan
+  custom_connections:
+  sections:
+    education:
+      - institution: Uniwersytet Ekonomiczny we Wrocławiu
+        area: Inżynieria Oprogramowania
+        degree: mgr
+        date:
+        start_date: 2019-10
+        end_date: 2022-06
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - 'Praca magisterska: "Wykorzystanie sztucznej inteligencji w inżynierii oprogramowania" - przegląd literatury badający zastosowania AI w cyklu życia oprogramowania, skupiający się na analizie danych i poprawie efektywności'
+          - Przeprowadzono analizę porównawczą technik uczenia maszynowego w celu opracowania modelu wykrywania błędów
+          - Zastosowano metody statystyczne, selekcję i inżynierię cech oraz wizualizację danych
+      - institution: Uniwersytet Ekonomiczny we Wrocławiu
+        area: Systemy Informacyjne
+        degree: lic
+        date:
+        start_date: 2016-10
+        end_date: 2019-06
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - 'Praca licencjacka: "Systemy zarządzania procesami biznesowymi w przedsiębiorstwie" - studium przypadku skupiające się na REST API opracowanym przy użyciu frameworka Spring'
+          - Zbudowano portal zgłoszeń oparty na procesach przy użyciu Camunda Modeler
+          - Zaimplementowano monitorowanie procesów umożliwiające użytkownikom śledzenie aktywnych instancji procesów i ich aktualnego etapu
+    experience:
+      - company: Capgemini
+        position: Inżynier Oprogramowania
+        date:
+        start_date: 2025-11
+        end_date: present
+        location: Wrocław, Polska
+        summary:
+        highlights:
+      - company: Bank Pekao S.A.
+        position: Starszy Inżynier Oprogramowania
+        date:
+        start_date: 2025-02
+        end_date: 2025-10
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - Opracowano Centralną Bazę Danych Kowenantów, system wewnętrzny do zarządzania kowenantami klientów i monitorowania zgodności
+          - Zbudowano API ASP.NET Core (.NET 9) oraz moduły frontendowe w Angular
+          - Zaimplementowano pipeline CI/CD przy użyciu GitHub Actions z kompleksowymi testami jednostkowymi zapewniającymi niezawodność
+      - company: Godel Technologies Europe
+        position: Inżynier Oprogramowania
+        date:
+        start_date: 2024-06
+        end_date: 2024-12
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - Opracowywano i rozwijano wewnętrzne moduły oparte na mikrousługach wykorzystywane w całej firmie
+          - Implementowano nowe funkcjonalności, usprawnianie istniejących modułów oraz naprawianie błędów w wielokulturowym zespole anglojęzycznym
+          - Kierowano wdrożeniem Single Sign-On (SSO) we wszystkich aplikacjach wewnętrznych przy użyciu Microsoft Entra ID (OAuth 2.0)
+          - Dostarczono integracje z API OneDrive i Microsoft Forms, w tym PoC i wytyczne architektoniczne
+      - company: ViberSoft
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2023-01
+        end_date: 2024-05
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - 'Projekt 1: Przebudowano starsze narzędzia Visual Basic na nowoczesne aplikacje .NET Core 3.1 z wykorzystaniem WinForms i DevExpress. Zintegrowano z Oracle + Oracle Spatial dla przepływów planowania opartych na geometrii'
+          - 'Projekt 2: Zmodernizowano system wprowadzania i wizualizacji danych geologicznych, migrując z Java do .NET 7 z frontendem w React, TypeScript, Material UI i KendoReact. Dostarczono jako rozwiązanie kontenerowe z integracją Oracle/Spatial'
+          - 'Projekt 3: Przebudowano aplikacje C++/VB na rozwiązanie .NET 7 WPF z ulepszonymi przepływami geometrii, operacjami przestrzennymi i integracją Oracle Spatial'
+          - 'Projekt 4: Zbudowano portal map geoprzestrzennych i panel administracyjny przy użyciu .NET 7, React, Material UI, OpenLayers, GeoServer z backendem Oracle Spatial'
+      - company: VBA Sp. z o.o.
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2022-01
+        end_date: 2022-12
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - 'Projekt 1: Opracowano narzędzie do przeglądania i przetwarzania hurtowni danych z .NET 5, ASP.NET Core MVC, Knockout, EF Core i SQL Server na IIS'
+          - 'Projekt 2: Przebudowano aplikację ASP.NET Web Forms na nowoczesne rozwiązanie .NET 7 MVC z React.js i Material UI dla lepszego UX i łatwiejszej konserwacji'
+          - 'Projekt 3: Zaprojektowano rozwiązanie do zgłaszania wypadków przy użyciu Power Apps, Power Automate i .NET 8 API do konwersji diagramów BPMN 2.0'
+      - company: Heraldbee
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2021-01
+        end_date: 2021-12
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - Zbudowano ekosystem aplikacji webowych zawierający API do zarządzania sklepem, kreator sklepu WordPress, usługę e-mail i API Machine Learning
+          - Opracowano komponenty przy użyciu .NET 5, ASP.NET Core Web API i Knockout
+          - Wdrożono rozwiązanie przy użyciu Docker i PostgreSQL
+      - company: Connectico Sp. z o.o.
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2020-01
+        end_date: 2020-12
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - Opracowano duży system E-commerce/Retail z synchronizatorem, sklepem i panelem administracyjnym
+          - Stworzono rozwiązanie do synchronizacji danych dla Wapro MAG przy użyciu Docker Compose
+          - Zbudowano wiele API (ASP.NET Core, .NET Core 2.2, Python), platformę zakupową Next.js i synchronizator WPF
+          - Zaimplementowano integracje z płatnościami, kurierami, planowaniem synchronizacji opartym na ML oraz zdalnymi usługami
+      - company: 4-TUNE IT Maciej Bac
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2017-01
+        end_date: 2019-12
+        location: Wrocław, Polska
+        summary:
+        highlights:
+          - Opracowano wiele aplikacji webowych i desktopowych (ASP.NET MVC, WPF, WinForms) z SQL Server
+          - Stworzono systemy dla gabinetów medycznych, protetyki, stomatologii, platform rozwoju kompetencji oraz wewnętrznych systemów zgłoszeń
+          - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
+          - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
+    certificates:
+      - name: Microsoft Certified DevOps Engineer Expert
+        date: 2025-12
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/6BB6AB78CC131A5E
+      - name: Microsoft Certified Azure Developer Associate
+        date: 2025-12
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/A5C8094D4C094210
+      - name: Microsoft Certified Azure Fundamentals
+        date: 2025-03
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/2A5334198674EAC0
+    skills:
+      - label: Języki Programowania
+        details: 'C#, TypeScript, JavaScript, Python, T-SQL'
+      - label: Technologie Frontendowe
+        details: React.js, Angular, Angular Material, KnockoutJS, Next.js, KendoReact, Material UI, OpenLayers, Bootstrap, HTML5, SASS, CSS, jQuery UI/jQuery/Kendo UI
+      - label: Technologie Backendowe
+        details: .NET Core, .NET Framework, ASP.NET (Core, MVC, Web API, Razor, Reporting Services), Entity Framework (Core/EF), WCF, REST APIs
+      - label: Technologie Desktopowe
+        details: WPF, WinForms, DevExpress
+      - label: Bazy Danych
+        details: Microsoft SQL Server, PostgreSQL, Oracle (Database, Spatial)
+      - label: DevOps i Narzędzia
+        details: Docker, Git, GitHub, GitHub Actions, CI/CD, IIS, GeoServer
+      - label: Chmura i Technologie Microsoft
+        details: Microsoft Entra ID, Power Automate, Power Apps, Azure
+      - label: Praktyki Deweloperskie
+        details: Mikrousługi, SOA, Architektura Oprogramowania, Wzorce Projektowe, Testy Integracyjne/Jednostkowe, Full-Stack Development, Responsywny Web Design
+      - label: Inne Technologie
+        details: WordPress, Linux (Ubuntu), SEO, UML, BPMN, OAuth 2.0, Technologie AI (ChatGPT, GitHub Copilot)
+    languages:
+      - label: Polski
+        details: Ojczysty
+      - label: Angielski
+        details: Profesjonalny poziom biegłości
+design:
+  theme: classic
+locale:
+  language: english
+  month_abbreviations:
+    - sty
+    - lut
+    - mar
+    - kwi
+    - maj
+    - cze
+    - lip
+    - sie
+    - wrz
+    - paź
+    - lis
+    - gru
+  month_names:
+    - styczeń
+    - luty
+    - marzec
+    - kwiecień
+    - maj
+    - czerwiec
+    - lipiec
+    - sierpień
+    - wrzesień
+    - październik
+    - listopad
+    - grudzień
+  present: obecnie
+  month: miesiąc
+  months: miesiące
+  year: rok
+  years: lata
+  last_updated: Ostatnia aktualizacja
+settings:
+  current_date: '2025-12-26'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_PL.typ
+    pdf_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_PL.pdf
+    markdown_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_PL.md
+    html_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_PL.html
+    png_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_PL.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []

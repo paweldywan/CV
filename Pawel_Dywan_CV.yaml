@@ -1,0 +1,346 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Pawel Dywan
+  headline: .NET Full Stack Developer
+  location: Wrocław, Poland
+  email: paweldywan@outlook.com
+  photo:
+  phone: +48 888 450 198
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: paweł-dywan-a02271363
+    - network: GitHub
+      username: paweldywan
+  custom_connections:
+  sections:
+    education:
+      - institution: Wroclaw University of Economics and Business
+        area: Software Engineering
+        degree: MS
+        date:
+        start_date: 2019-10
+        end_date: 2022-06
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - 'Thesis: "The Use of Artificial Intelligence in Software Engineering" - literature review exploring AI applications throughout the software development lifecycle, focusing on data analysis and efficiency improvements'
+          - Performed comparative analysis of machine learning techniques to develop a fault detection model
+          - Employed statistical methods, feature selection and engineering, and data visualization
+      - institution: Wroclaw University of Economics and Business
+        area: Information Systems
+        degree: BS
+        date:
+        start_date: 2016-10
+        end_date: 2019-06
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - 'Thesis: "Business Process Management Systems in a Company" - case study focused on a REST API developed using Spring framework'
+          - Built a ticket portal driven by processes using Camunda Modeler
+          - Implemented process monitoring allowing users to track active process instances and their current stage
+    experience:
+      - company: Capgemini
+        position: Software Engineer
+        date:
+        start_date: 2025-11
+        end_date: present
+        location: Wrocław, Poland
+        summary:
+        highlights:
+      - company: Bank Pekao S.A.
+        position: Senior Software Engineer
+        date:
+        start_date: 2025-02
+        end_date: 2025-10
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - Developed the Central Covenant Database, an internal system for managing client covenants and monitoring compliance
+          - Built ASP.NET Core (.NET 9) APIs and Angular frontend modules
+          - Implemented CI/CD pipelines using GitHub Actions with comprehensive unit tests to ensure reliability
+      - company: Godel Technologies Europe
+        position: Software Engineer
+        date:
+        start_date: 2024-06
+        end_date: 2024-12
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - Developed and enhanced internal microservices-based modules used across departments
+          - Implemented new functionality, improved existing modules, and fixed bugs within a multicultural, English-speaking team
+          - Led the implementation of Single Sign-On (SSO) across all internal applications using Microsoft Entra ID (OAuth 2.0)
+          - Delivered OneDrive and Microsoft Forms API integrations, including PoCs and architectural guidelines
+      - company: ViberSoft
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2023-01
+        end_date: 2024-05
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - 'Project 1: Rebuilt legacy Visual Basic tools into modern .NET Core 3.1 applications using WinForms and DevExpress. Integrated with Oracle + Oracle Spatial for geometry-based planning workflows'
+          - 'Project 2: Modernized geological data-entry system, migrating from Java to .NET 7 with React, TypeScript, Material UI, and KendoReact frontend. Delivered as containerized solution with Oracle/Spatial integration'
+          - 'Project 3: Rebuilt C++/VB applications into .NET 7 WPF solution with improved geometry workflows, spatial operations, and Oracle Spatial integration'
+          - 'Project 4: Built geospatial mapping portal and admin panel using .NET 7, React, Material UI, OpenLayers, GeoServer with Oracle Spatial backend'
+      - company: VBA Sp. z o.o.
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2022-01
+        end_date: 2022-12
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - 'Project 1: Developed data warehouse viewer & processing tool with .NET 5, ASP.NET Core MVC, Knockout, EF Core, and SQL Server on IIS'
+          - 'Project 2: Rebuilt ASP.NET Web Forms application into modern .NET 7 MVC solution with React.js and Material UI for improved UX and maintainability'
+          - 'Project 3: Designed accident reporting solution using Power Apps, Power Automate, and .NET 8 API for BPMN 2.0 diagram conversion'
+      - company: Heraldbee
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2021-01
+        end_date: 2021-12
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - Built web-application ecosystem including store-management API, WordPress store builder, email service, and Machine Learning API
+          - Developed components using .NET 5, ASP.NET Core Web API and Knockout
+          - Deployed solution using Docker and PostgreSQL
+      - company: Connectico Sp. z o.o.
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2020-01
+        end_date: 2020-12
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - Developed large E-commerce/Retail system with synchronizer, shop, and admin panel
+          - Created data-synchronization solution for Wapro MAG using Docker Compose
+          - Built multiple APIs (ASP.NET Core, .NET Core 2.2, Python), Next.js shopping platform, and WPF synchronizer
+          - Implemented integrations for payments, couriers, ML-based synchronization planning, and remote services
+      - company: 4-TUNE IT Maciej Bac
+        position: .NET Full Stack Developer
+        date:
+        start_date: 2017-01
+        end_date: 2019-12
+        location: Wrocław, Poland
+        summary:
+        highlights:
+          - Developed multiple web and desktop applications (ASP.NET MVC, WPF, WinForms) with SQL Server
+          - Created systems for medical offices, prosthetics, dentistry, competence-development platforms, and internal ticketing
+          - Built CRM integrations, HL7 interfaces, RIS/HIS integrations, and WCF-based e-prescription modules
+          - Developed reporting solutions using SQL Server Reporting Services
+    certificates:
+      - name: Microsoft Certified DevOps Engineer Expert
+        date: 2025-12
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/6BB6AB78CC131A5E
+      - name: Microsoft Certified Azure Developer Associate
+        date: 2025-12
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/A5C8094D4C094210
+      - name: Microsoft Certified Azure Fundamentals
+        date: 2025-03
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/2A5334198674EAC0
+    skills:
+      - label: Programming Languages
+        details: 'C#, TypeScript, JavaScript, Python, T-SQL'
+      - label: Frontend Technologies
+        details: React.js, Angular, Angular Material, KnockoutJS, Next.js, KendoReact, Material UI, OpenLayers, Bootstrap, HTML5, SASS, CSS, jQuery UI/jQuery/Kendo UI
+      - label: Backend Technologies
+        details: .NET Core, .NET Framework, ASP.NET (Core, MVC, Web API, Razor, Reporting Services), Entity Framework (Core/EF), WCF, REST APIs
+      - label: Desktop Technologies
+        details: WPF, WinForms, DevExpress
+      - label: Databases
+        details: Microsoft SQL Server, PostgreSQL, Oracle (Database, Spatial)
+      - label: DevOps & Tools
+        details: Docker, Git, GitHub, GitHub Actions, CI/CD, IIS, GeoServer
+      - label: Cloud & Microsoft Technologies
+        details: Microsoft Entra ID, Power Automate, Power Apps, Azure
+      - label: Development Practices
+        details: Microservices, SOA, Software Architecture, Design Patterns, Integration/Unit Testing, Full-Stack Development, Responsive Web Design
+      - label: Other Technologies
+        details: WordPress, Linux (Ubuntu), SEO, UML, BPMN, OAuth 2.0, AI Technologies (ChatGPT, GitHub Copilot)
+    languages:
+      - label: Polish
+        details: Native
+      - label: English
+        details: Professional working proficiency
+design:
+  theme: classic
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: false
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: english
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: '2025-12-26'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
