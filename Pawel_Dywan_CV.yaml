@@ -130,6 +130,9 @@ cv:
           - Built CRM integrations, HL7 interfaces, RIS/HIS integrations, and WCF-based e-prescription modules
           - Developed reporting solutions using SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Azure Administrator Associate
+        date: 2026-01
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/BF30E1A8C08E5244
       - name: Microsoft Certified DevOps Engineer Expert
         date: 2025-12
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/6BB6AB78CC131A5E
@@ -329,7 +332,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2025-12-26'
+  current_date: '2026-01-18'
   render_command:
     design:
     locale:
