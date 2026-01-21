@@ -158,7 +158,7 @@ cv:
       - label: Chmura i Technologie Microsoft
         details: Microsoft Entra ID, Power Automate, Power Apps, Azure
       - label: Praktyki Deweloperskie
-        details: Mikrousługi, SOA, Architektura Oprogramowania, Wzorce Projektowe, Clean Code, Testy Integracyjne/Jednostkowe, Full-Stack Development, Responsywny Web Design
+        details: Agile, Test-Driven Development (TDD), Mikrousługi, SOA, Architektura Oprogramowania, Wzorce Projektowe, Clean Code, Testy Integracyjne/Jednostkowe, Full-Stack Development, Responsywny Web Design
       - label: Inne Technologie
         details: WordPress, Linux (Ubuntu), SEO, UML, BPMN, OAuth 2.0, Technologie AI (ChatGPT, GitHub Copilot)
     languages:
