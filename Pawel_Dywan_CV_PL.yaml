@@ -144,7 +144,7 @@ cv:
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/2A5334198674EAC0
     skills:
       - label: Języki Programowania
-        details: 'C#, TypeScript, JavaScript, Python, T-SQL'
+        details: 'C#, TypeScript, JavaScript, Python, T-SQL, XML, JSON'
       - label: Technologie Frontendowe
         details: React.js, Angular, Angular Material, KnockoutJS, Next.js, KendoReact, Material UI, OpenLayers, Bootstrap, HTML5, SASS, CSS, jQuery UI/jQuery/Kendo UI
       - label: Technologie Backendowe
@@ -154,11 +154,11 @@ cv:
       - label: Bazy Danych
         details: Microsoft SQL Server, PostgreSQL, Oracle (Database, Spatial)
       - label: DevOps i Narzędzia
-        details: Docker, Git, GitHub, GitHub Actions, CI/CD, IIS, GeoServer
+        details: Docker, Git, GitHub, GitHub Actions, Azure DevOps, CI/CD, IIS, GeoServer, Visual Studio, SQL Server Management Studio
       - label: Chmura i Technologie Microsoft
         details: Microsoft Entra ID, Power Automate, Power Apps, Azure
       - label: Praktyki Deweloperskie
-        details: Mikrousługi, SOA, Architektura Oprogramowania, Wzorce Projektowe, Testy Integracyjne/Jednostkowe, Full-Stack Development, Responsywny Web Design
+        details: Mikrousługi, SOA, Architektura Oprogramowania, Wzorce Projektowe, Clean Code, Testy Integracyjne/Jednostkowe, Full-Stack Development, Responsywny Web Design
       - label: Inne Technologie
         details: WordPress, Linux (Ubuntu), SEO, UML, BPMN, OAuth 2.0, Technologie AI (ChatGPT, GitHub Copilot)
     languages:
