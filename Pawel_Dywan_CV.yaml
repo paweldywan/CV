@@ -130,6 +130,9 @@ cv:
           - Built CRM integrations, HL7 interfaces, RIS/HIS integrations, and WCF-based e-prescription modules
           - Developed reporting solutions using SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Azure Solutions Architect Expert
+        date: 2026-02
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/729C618CA5356655
       - name: Microsoft Certified Azure Administrator Associate
         date: 2026-01
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/BF30E1A8C08E5244
@@ -139,9 +142,6 @@ cv:
       - name: Microsoft Certified Azure Developer Associate
         date: 2025-12
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/A5C8094D4C094210
-      - name: Microsoft Certified Azure Fundamentals
-        date: 2025-03
-        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/2A5334198674EAC0
     skills:
       - label: Programming Languages
         details: 'C#, TypeScript, JavaScript, Python, T-SQL, XML, JSON'
