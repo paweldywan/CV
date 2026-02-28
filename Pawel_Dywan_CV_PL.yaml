@@ -168,6 +168,9 @@ cv:
         details: Profesjonalny poziom biegłości
 design:
   theme: classic
+  templates:
+    normal_entry:
+      main_column: "**NAME**\nSUMMARY\nHIGHLIGHTS\nURL"
 locale:
   language: english
   month_abbreviations:

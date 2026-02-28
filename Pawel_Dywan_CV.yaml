@@ -168,6 +168,9 @@ cv:
         details: Professional working proficiency
 design:
   theme: classic
+  templates:
+    normal_entry:
+      main_column: "**NAME**\nSUMMARY\nHIGHLIGHTS\nURL"
   # page:
   #   size: us-letter
   #   top_margin: 0.7in
