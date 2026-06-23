@@ -11,7 +11,7 @@ cv:
     - network: LinkedIn
       username: pawel-dywan
     - network: GitHub
-      username: paweldywandev
+      username: paweldywan
   custom_connections:
   sections:
     education:
@@ -79,10 +79,10 @@ cv:
         location: Wrocław, Polska
         summary:
         highlights:
-          - 'Projekt 1: Przebudowano starsze narzędzia Visual Basic na nowoczesne aplikacje .NET Core 3.1 z wykorzystaniem WinForms i DevExpress. Zintegrowano z Oracle + Oracle Spatial dla przepływów planowania opartych na geometrii'
-          - 'Projekt 2: Zmodernizowano system wprowadzania i wizualizacji danych geologicznych, migrując z Java do .NET 7 z frontendem w React, TypeScript, Material UI i KendoReact. Dostarczono jako rozwiązanie kontenerowe z integracją Oracle/Spatial'
-          - 'Projekt 3: Przebudowano aplikacje C++/VB na rozwiązanie .NET 7 WPF z ulepszonymi przepływami geometrii, operacjami przestrzennymi i integracją Oracle Spatial'
-          - 'Projekt 4: Zbudowano portal map geoprzestrzennych i panel administracyjny przy użyciu .NET 7, React, Material UI, OpenLayers, GeoServer z backendem Oracle Spatial'
+          - "Projekt 1: Przebudowano starsze narzędzia Visual Basic na nowoczesne aplikacje .NET Core 3.1 z wykorzystaniem WinForms i DevExpress. Zintegrowano z Oracle + Oracle Spatial dla przepływów planowania opartych na geometrii"
+          - "Projekt 2: Zmodernizowano system wprowadzania i wizualizacji danych geologicznych, migrując z Java do .NET 7 z frontendem w React, TypeScript, Material UI i KendoReact. Dostarczono jako rozwiązanie kontenerowe z integracją Oracle/Spatial"
+          - "Projekt 3: Przebudowano aplikacje C++/VB na rozwiązanie .NET 7 WPF z ulepszonymi przepływami geometrii, operacjami przestrzennymi i integracją Oracle Spatial"
+          - "Projekt 4: Zbudowano portal map geoprzestrzennych i panel administracyjny przy użyciu .NET 7, React, Material UI, OpenLayers, GeoServer z backendem Oracle Spatial"
       - company: VBA Sp. z o.o.
         position: .NET Full Stack Developer
         date:
@@ -91,9 +91,9 @@ cv:
         location: Wrocław, Polska
         summary:
         highlights:
-          - 'Projekt 1: Opracowano narzędzie do przeglądania i przetwarzania hurtowni danych z .NET 5, ASP.NET Core MVC, Knockout, EF Core i SQL Server na IIS'
-          - 'Projekt 2: Przebudowano aplikację ASP.NET Web Forms na nowoczesne rozwiązanie .NET 7 MVC z React.js i Material UI dla lepszego UX i łatwiejszej konserwacji'
-          - 'Projekt 3: Zaprojektowano rozwiązanie do zgłaszania wypadków przy użyciu Power Apps, Power Automate i .NET 8 API do konwersji diagramów BPMN 2.0'
+          - "Projekt 1: Opracowano narzędzie do przeglądania i przetwarzania hurtowni danych z .NET 5, ASP.NET Core MVC, Knockout, EF Core i SQL Server na IIS"
+          - "Projekt 2: Przebudowano aplikację ASP.NET Web Forms na nowoczesne rozwiązanie .NET 7 MVC z React.js i Material UI dla lepszego UX i łatwiejszej konserwacji"
+          - "Projekt 3: Zaprojektowano rozwiązanie do zgłaszania wypadków przy użyciu Power Apps, Power Automate i .NET 8 API do konwersji diagramów BPMN 2.0"
       - company: Heraldbee
         position: .NET Full Stack Developer
         date:
@@ -130,6 +130,9 @@ cv:
           - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
           - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Azure AI Apps and Agents Developer Associate
+        date: 2026-06
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/DFF9729587123D7A
       - name: Microsoft Certified Azure AI Engineer Associate
         date: 2026-04
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/C643A60653F07DF4
@@ -147,7 +150,7 @@ cv:
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/A5C8094D4C094210
     skills:
       - label: Języki Programowania
-        details: 'C#, TypeScript, JavaScript, Python, T-SQL, XML, JSON'
+        details: "C#, TypeScript, JavaScript, Python, T-SQL, XML, JSON"
       - label: Technologie Frontendowe
         details: React.js, Angular, Angular Material, KnockoutJS, Next.js, KendoReact, Material UI, OpenLayers, Bootstrap, HTML5, SASS, CSS, jQuery UI/jQuery/Kendo UI
       - label: Technologie Backendowe
@@ -209,7 +212,7 @@ locale:
   years: lata
   last_updated: Ostatnia aktualizacja
 settings:
-  current_date: '2026-04-06'
+  current_date: "2026-06-23"
   render_command:
     design:
     locale:
