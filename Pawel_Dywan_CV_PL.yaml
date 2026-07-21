@@ -130,8 +130,9 @@ cv:
           - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
           - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
     certificates:
-      - name: Digital applications and innovation Microsoft Certified Azure AI Cloud Developer
+      - name: Microsoft Certified Azure AI Cloud Developer Associate
         date: 2026-07
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/CBD7F401973238D6
       - name: Microsoft Certified Azure AI Apps and Agents Developer Associate
         date: 2026-06
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/DFF9729587123D7A
