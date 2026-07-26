@@ -130,6 +130,9 @@ cv:
           - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
           - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Machine Learning Operations Engineer Associate
+        date: 2026-07
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/D11435876064F633
       - name: Microsoft Certified Azure AI Cloud Developer Associate
         date: 2026-07
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/CBD7F401973238D6
