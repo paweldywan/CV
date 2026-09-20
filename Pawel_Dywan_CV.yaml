@@ -48,6 +48,10 @@ cv:
         location: Wrocław, Poland
         summary:
         highlights:
+          - Developed a platform for the insurance industry, integrating with external systems
+          - Built ASP.NET Core APIs and Angular frontend modules for core business workflows
+          - Developed Azure Function Apps and App Services for event-driven processing and application hosting, backed by Azure SQL
+          - Provisioned and configured Azure infrastructure using ARM templates
       - company: Bank Pekao S.A.
         position: Senior Software Engineer
         date:

@@ -48,6 +48,10 @@ cv:
         location: Wrocław, Polska
         summary:
         highlights:
+          - Rozwijałem platformę dla branży ubezpieczeniowej, zintegrowaną z systemami zewnętrznymi
+          - Budowałem API w ASP.NET Core oraz moduły frontendowe w Angularze dla kluczowych procesów biznesowych
+          - Tworzyłem Azure Function Apps oraz App Services do przetwarzania zdarzeniowego i hostowania aplikacji, z wykorzystaniem Azure SQL
+          - Konfigurowałem i zarządzałem infrastrukturą Azure przy użyciu szablonów ARM        
       - company: Bank Pekao S.A.
         position: Starszy Inżynier Oprogramowania
         date:
