@@ -134,6 +134,9 @@ cv:
           - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
           - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Multi-Agent AI Solutions Expert
+        date: 2026-10
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/B137E662833A0DB2
       - name: Microsoft Certified Cloud and AI Security Engineer Associate
         date: 2026-09
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/44360AC11F02A39E
@@ -228,7 +231,7 @@ locale:
   years: lata
   last_updated: Ostatnia aktualizacja
 settings:
-  current_date: "2026-09-20"
+  current_date: "2026-10-02"
   render_command:
     design:
     locale:
