@@ -134,6 +134,9 @@ cv:
           - Zbudowano integracje CRM, interfejsy HL7, integracje RIS/HIS oraz moduły e-recepty oparte na WCF
           - Opracowano rozwiązania raportowe przy użyciu SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Cybersecurity Architect Expert
+        date: 2026-11
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/D805DC3EE59E34D3
       - name: Azure Databricks Data Engineer Associate
         date: 2026-10
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/78F500E873923F9C
@@ -234,7 +237,7 @@ locale:
   years: lata
   last_updated: Ostatnia aktualizacja
 settings:
-  current_date: "2026-10-18"
+  current_date: "2026-11-08"
   render_command:
     design:
     locale:
