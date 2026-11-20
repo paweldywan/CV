@@ -44,7 +44,7 @@ cv:
         position: Starszy Inżynier Oprogramowania
         date:
         start_date: 2025-11
-        end_date: present
+        end_date: 2026-11
         location: Wrocław, Polska
         summary:
         highlights:
@@ -237,7 +237,7 @@ locale:
   years: lata
   last_updated: Ostatnia aktualizacja
 settings:
-  current_date: "2026-11-08"
+  current_date: "2026-11-20"
   render_command:
     design:
     locale:
